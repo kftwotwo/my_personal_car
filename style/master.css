@@ -11,18 +11,14 @@
   border:
 }
 
-.content-short {
-  margin-left: 35%;
-  margin-top: -10%;
+.short-content {
+  margin-top: -12%;
 }
 
-
 .short-bio {
-  margin-left: 30%;
   margin-top: -8%;
 }
 
 .vehicle-list {
-  margin-left: 60%;
-  margin-top: -8.5%;
+  margin-top: -8%;
 }
